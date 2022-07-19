@@ -144,7 +144,9 @@
 來<rp>（</rp><rt>lāe</rt><rp>）</rp>
 風<rp>（</rp><rt>huēng</rt><rp>）</rp>
 雨<rp>（</rp><rt>yù</rt><rp>）</rp>
-聲<rp>（</rp><rt>shī</rt><rp>）</rp>，
+聲<rp>（</rp><rt>shī</rt><rp>）</rp>
+</ruby>，
+<ruby>
 花<rp>（</rp><rt>huā</rt><rp>）</rp>
 落<rp>（</rp><rt>làq</rt><rp>）</rp>
 知<rp>（</rp><rt>zhī</rt><rp>）</rp>
