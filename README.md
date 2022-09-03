@@ -11,7 +11,7 @@
 <details>
     <summary>拼音方案点这裡！</summary>
 
-    表格闔裏，拼音列的每一項是聲母的平遙話拼音寫法，斜杠`/`内是對應的國際音標（寬式）。
+表格闔裏，拼音列的每一項是聲母的平遙話拼音寫法，斜杠`/`内是對應的國際音標（寬式）。
 
 ### **聲母**
 
@@ -109,7 +109,7 @@
 
 ## 下載使用
 
-要是你用過[RIME中州韻輸入法](https://rime.im/)，只需要把這塊Repo闔裏的`piengyo.dict.yaml``piengyo.extended.dict.yaml``piengyo.schema.yaml`作爲配方添加到你的配置闔裏就行。
+要是你用過[RIME中州韻輸入法](https://rime.im/)，只需要把這塊Repo闔裏的`piengyo.dict.yaml` `piengyo.extended.dict.yaml` `piengyo.schema.yaml`作爲配方添加到你的配置闔裏就行。
 
 沒啦用過RIME的，可以參照以下步驟操作：
 
@@ -131,7 +131,7 @@
 
 3. 完成初次設置以後，切換到小狼毫輸入法；這時候電腦右下角角應該有塊「中」字圖標。右鍵點擊這塊圖標，選擇「用戶文件夾」打開你的用戶文件夾位置。
 
-4. 把這塊Repo闔裏的`piengyo.dict.yaml``piengyo.extended.dict.yaml``piengyo.schema.yaml`三塊文件放的用戶文件夾闔裏。
+4. 把這塊Repo闔裏的`piengyo.dict.yaml` `piengyo.extended.dict.yaml` `piengyo.schema.yaml`三塊文件放的用戶文件夾闔裏。
 
 5. 右鍵點擊右下角的「中」字圖標，選擇「輸入法設定」，在彈出的對話框框闔裏勾上平遙話。
 
@@ -145,7 +145,7 @@
 
 3. 完成初次設置以後，切換到鼠鬚管輸入法；這時候電腦右上角角應該有塊「ㄓ」字圖標。點擊這塊圖標，選擇「Settings/設置」打開你的用戶文件夾位置。
 
-4. 把這塊Repo闔裏的`piengyo.dict.yaml``piengyo.extended.dict.yaml``piengyo.schema.yaml`三塊文件放的用戶文件夾闔裏。
+4. 把這塊Repo闔裏的`piengyo.dict.yaml` `piengyo.extended.dict.yaml` `piengyo.schema.yaml`三塊文件放的用戶文件夾闔裏。
 
 5. 打開這塊文件夾闔裏的`default.custom.yaml`（要是沒啦，就新建一塊，注意後綴名是`yaml`），然後添加底頭這幾行行：
 
