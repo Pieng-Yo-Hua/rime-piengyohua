@@ -2393,6 +2393,7 @@ use_preset_vocabulary: true
 光	guo
 胱	guo
 廣	guo
+逛	guo
 
 缸	guo
 剛	guo
@@ -2415,6 +2416,11 @@ use_preset_vocabulary: true
 抗	kuo
 曠	kuo
 矌	kuo
+
+框	kuo
+匡	kuo
+筐	kuo
+眶	kuo
 
 # huo
 火	huo
@@ -2550,6 +2556,8 @@ use_preset_vocabulary: true
 莎	suo
 梭	suo
 蓑	suo
+
+所	suo
 
 # wo
 王	wo
@@ -5423,20 +5431,25 @@ use_preset_vocabulary: true
 
 觥	guon
 獷	guon
-礦	kuon
-鑛	kuon
 光	guon
 咣	guon
 胱	guon
 廣	guon
+逛	guon
+誑	guon
 
 # kuon
 寬	kuon
 髖	kuon
 款	kuon
-
+礦	kuon
+鑛	kuon
 曠	kuon
 爌	kuon
+框	kuon
+匡	kuon
+筐	kuon
+眶	kuon
 
 # huon
 歡	huon
