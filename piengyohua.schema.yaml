@@ -3,7 +3,7 @@
 
 schema:
   name: "平遙話"
-  schema_id: piengyo
+  schema_id: piengyohua
   dependencies:
     - luna_pinyin
   description: |

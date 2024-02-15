@@ -128,7 +128,7 @@
 
 3. 完成初次設置以後，切換到小狼毫輸入法；這時候電腦右下角角應該有個「中」字圖標。右鍵點擊這個圖標，選擇「用戶文件夾」打開你的用戶文件夾位置。
 
-4. 把這個Repo闔裏的`piengyo.dict.yaml` `piengyo.extended.dict.yaml` `piengyo.schema.yaml`三個文件放的用戶文件夾闔裏。
+4. 把這個Repo闔裏的`piengyohua.dict.yaml` `piengyohua.extended.dict.yaml` `piengyohua.schema.yaml`三個文件放的用戶文件夾闔裏。
 
 5. 右鍵點擊右下角的「中」字圖標，選擇「輸入法設定」，在彈出的對話框框闔裏勾上平遙話。
 
@@ -142,14 +142,14 @@
 
 3. 完成初次設置以後，切換到鼠鬚管輸入法；這時候電腦右上角角應該有個「ㄓ」字圖標。點擊這個圖標，選擇「Settings/設置」打開你的用戶文件夾位置。
 
-4. 把這個Repo闔裏的`piengyo.dict.yaml` `piengyo.extended.dict.yaml` `piengyo.schema.yaml`三個文件放的用戶文件夾闔裏。
+4. 把這個Repo闔裏的`piengyohua.dict.yaml` `piengyohua.extended.dict.yaml` `piengyohua.schema.yaml`三個文件放的用戶文件夾闔裏。
 
 5. 打開這個文件夾闔裏的`default.custom.yaml`（要是沒啦，就新建一個，注意後綴名是`yaml`），然後添加底頭這幾行行：
 
 ```yaml
 patch: #要是已經有這行行，就不要加啦
   schema_list: #要是已經有這行行，就不要加啦
-    - {schema: piengyo} # 注意縮進格式
+    - {schema: piengyohua} # 注意縮進格式
 ```
 
 6. 在輸入界面按下 Ctrl+` ，切換到平遙話，你就能用平遙話拼音打字啦。
