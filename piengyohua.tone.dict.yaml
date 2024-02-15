@@ -56,6 +56,7 @@ use_preset_vocabulary: true
 乾	gang1
 亂	luon4
 了	lio3
+了	lo3
 予	yu3
 事	sr4
 二	er4
@@ -295,6 +296,7 @@ use_preset_vocabulary: true
 儼	nie3
 兀	waq6
 兀	waq5
+兀	wae3
 元	yue2
 允	yueng3
 充	cueng1
@@ -311,6 +313,7 @@ use_preset_vocabulary: true
 免	mie3
 兔	tu4
 兒	er2
+兒	raq6
 兗	ye3
 兜	dou1
 兢	jieng1
@@ -488,6 +491,8 @@ use_preset_vocabulary: true
 午	wu3
 升	sheng1
 升	shr1
+昇	sheng1
+昇	shr1
 卅	saq5
 仟	qie1
 半	bang4
@@ -650,6 +655,7 @@ use_preset_vocabulary: true
 咯	gaq5
 咫	zr3
 咱	za2
+咱	zaq5
 咻	xiou1
 哨	so4
 唐	tang2
@@ -762,7 +768,7 @@ use_preset_vocabulary: true
 噎	yaq5
 噗	pu1
 噴	peng1
-嘶	si1
+嘶	sr1
 嘯	xio4
 嘰	ji1
 噙	qieng2
@@ -1089,6 +1095,7 @@ use_preset_vocabulary: true
 嬸	sheng3
 孀	suon1
 子	zr3
+子	zaq5
 孑	jiaq5
 孓	jyuaq6
 孔	kueng3
@@ -1328,6 +1335,9 @@ use_preset_vocabulary: true
 序	xyu4
 庇	bi4
 床	cuon2
+床	suo2
+牀	cuon2
+牀	suo2
 庚	geng1
 店	die4
 府	hu3
@@ -1537,6 +1547,7 @@ use_preset_vocabulary: true
 惱	no3
 愎	biaq6
 惶	huon2
+惶	huo2
 愉	yu2
 愀	qio3
 愚	yu2
@@ -1954,6 +1965,7 @@ use_preset_vocabulary: true
 旌	jieng1
 旎	nzr3
 旗	qi2
+旗	ji2
 旖	yi1
 既	ji4
 日	raq6
@@ -2553,6 +2565,7 @@ use_preset_vocabulary: true
 漏	lou4
 漂	pio1
 漂	pio3
+漂	pio4
 漢	hang4
 滿	mang3
 滯	zr4
@@ -3076,6 +3089,7 @@ use_preset_vocabulary: true
 瞟	pio3
 瞥	piaq5
 瞳	tueng2
+瞳	dueng2
 瞪	deng4
 瞰	kang4
 瞬	sueng4
@@ -3262,6 +3276,7 @@ use_preset_vocabulary: true
 窩	wo1
 窩	wei1
 窯	yo2
+窑	yo2
 窮	qyueng2
 窮	jyueng2
 窺	kuei1
@@ -3681,6 +3696,7 @@ use_preset_vocabulary: true
 腦	no3
 腦	lo3
 膀	pang2
+膀	buo3
 膏	go1
 膈	gaq5
 膊	paq5
@@ -3870,6 +3886,7 @@ use_preset_vocabulary: true
 葦	yu4
 葫	hu2
 葫	guaq6
+葫	huaq6
 葉	yaq6
 葬	zang4
 葛	gaq5
@@ -3941,6 +3958,7 @@ use_preset_vocabulary: true
 藕	ngou3
 藤	teng2
 藥	yuaq6
+藥	yaq6
 藻	zo3
 藹	ngae4
 蘑	mo2
@@ -4098,7 +4116,11 @@ use_preset_vocabulary: true
 裝	zuon1
 裝	zuo1
 裡	li3
+裏	li3
 裡	lei3
+裏	lei3
+裡	raq6
+裏	raq6
 裊	nio3
 裕	yu4
 裳	chang2
@@ -4464,6 +4486,7 @@ use_preset_vocabulary: true
 軀	qyu1
 車	jyu1
 車	che1
+車	she1
 軋	ngaq5
 軍	jyueng1
 軌	guei3
@@ -5006,6 +5029,7 @@ use_preset_vocabulary: true
 額	ngaq6
 顏	niang2
 題	ti2
+題	ti3
 顎	ngaq5
 顓	zuon1
 類	luei4
@@ -5026,7 +5050,7 @@ use_preset_vocabulary: true
 飄	pio2
 飛	huei1
 食	shaq6
-食	si4
+食	sr4
 飢	ji1
 飧	sueng1
 飪	reng3
@@ -5064,6 +5088,7 @@ use_preset_vocabulary: true
 饑	ji1
 饜	ye1
 饞	cang2
+饞	sang2
 首	shou3
 香	xiang1
 馥	haq6
@@ -5228,6 +5253,7 @@ use_preset_vocabulary: true
 麩	hu1
 麴	qyuaq5
 麵	mie4
+麪	mie4
 麻	ma2
 麼	mo3
 麾	huei1
@@ -5396,3 +5422,26 @@ use_preset_vocabulary: true
 鸛	huon1
 鴇	bo3
 杌	waq6
+菇	gu1
+茭	jio3
+屄	bi1
+屌	dio3
+㞗	jiou2
+䐁	duaq5
+㞘	duaq5
+𡰪	duaq5
+捅	tueng3
+挲	xie1
+臢	zang1
+囫	guaq6
+圇	lueng2
+鏊	ngo4
+煿	baq5
+饃	mei2
+盅	zueng1
+鉢	baq5
+甑	zei4
+塋	yu2
+笤	dio2
+蕎	jio2
+鍁	qie1

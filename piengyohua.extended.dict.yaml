@@ -1,6 +1,6 @@
 ---
 name: piengyohua.extended
-version: "2022.7.1"
+version: "2024.2"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -20,7 +20,6 @@ import_tables:
 誰
 誰	xyua
 誰家	xyua
-# sueijiamia
 
 這	zaq
 這塊
@@ -37,14 +36,10 @@ import_tables:
 兀一	wei
 兀	wei
 
-
-
-
 # 時
 第明
 夜來
 前日
-前日	jier
 先前日
 後日
 外後天
@@ -103,12 +98,8 @@ import_tables:
 # 動
 荷上
 隨上
-
-圪灑
+圪躧
 圪蹴
-
-
-
 葺理
 摩挲	baqxie
 陪隨
@@ -116,18 +107,10 @@ import_tables:
 提溜	diaqliou
 打幫	dabo
 摸揣
-
-
-
-
 碢兒
 調和
-
-
-
 𢜶灑
 㥰灑
-
 # 方
 東面子
 東面面
@@ -233,8 +216,6 @@ import_tables:
 墁磚頭
 麻糝
 搕𢶍
-趏噠
-
 平遙
 介休
 汾陽
@@ -257,7 +238,6 @@ import_tables:
 襄垣
 杜家莊
 香樂
-
 海子街
 站馬道
 迎薰門
@@ -281,12 +261,10 @@ import_tables:
 廉莊
 孟山
 仁義山
-
 栓正
 糾首
 虛說
 拍着
-
 餓老蛇
 鷂子
 舞彪
@@ -318,9 +296,6 @@ import_tables:
 花鴇
 巧嘴鵓鴣兒
 山頁雀
-
-窑婆
-红桃花色
 剜眼
 杌子
 嗚叫
@@ -331,4 +306,3 @@ import_tables:
 嗅煙
 謴甚
 謴性
-
