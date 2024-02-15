@@ -8,7 +8,7 @@ schema:
     - luna_pinyin
   description: |
     平遙話拼音輸入法
-  version: 0.11
+  version: 0.2
 
 switches:
   - name: ascii_mode
