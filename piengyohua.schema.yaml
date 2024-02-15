@@ -57,7 +57,7 @@ speller:
     # - derive/uang$/uon/ # 允许用uang代替uon
 
 translator:
-  dictionary: piengyo.extended
+  dictionary: piengyohua.extended
   spelling_hints: 5
   enable_sentence: true
   enable_user_dict: true
